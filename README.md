@@ -1,2 +1,2 @@
 # Text detection and recognition using FOTS 
-![Screenshot](screenshot.png)
+![Screenshot](1.jpg)
