@@ -1,1 +1,1 @@
-# FOTS_tf
+# Text detection and recognition using FOTS 
