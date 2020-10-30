@@ -25,5 +25,5 @@ moving_average_decay = 0.997
 restore = False
 save_checkpoint_steps = 1000
 save_summary_steps = 100
-pre_trained_model_path = None #'./weights/pre_weight/'
+pre_trained_model_path = None #'pretrained weight path'
 
