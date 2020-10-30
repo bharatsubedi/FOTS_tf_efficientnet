@@ -1,4 +1,4 @@
-# Text detection and recognition using FOTS 
+# Text detection and recognition
 ![Screenshot](1.jpg)
 # EfficientNet implementation of FOTS Architecture
 ## If you like my work please cite
