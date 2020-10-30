@@ -28,6 +28,7 @@ class Detection(object):
 
     def build_graph(self, images, weight_decay=1e-5):
         images = mean_image_subtraction(images)
+        #select efficientnet version from b0 to b7
         _, end_points = efficientnet_builder.build_model(images, 'efficientnet-b4', self.is_training)
         # print(images)
 
